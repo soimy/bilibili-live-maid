@@ -1,5 +1,7 @@
 {
   "env": "production",
   "isDev": false,
+  "RoomId": 24851114,
+  "History": 200,
   "danmakuPath": "dist/"
 }

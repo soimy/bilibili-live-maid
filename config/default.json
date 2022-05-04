@@ -2,7 +2,8 @@
   "env": "development",
   "isDev": true,
   "danmakuPath": "http://127.0.0.1:8080/danmaku.html",
-  "defaultRoomId": 9167635,
+  "RoomId": 77630,
+  "History": 200,
   "tts_appId": "",
   "tts_secret": "",
   "tts_apiKey": ""
