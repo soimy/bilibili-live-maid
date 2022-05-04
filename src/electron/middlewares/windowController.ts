@@ -10,8 +10,8 @@ let isInGame = false;
 export async function createMainWindow(ctx: ICtx) {
   try {
     const mainWindow = new BrowserWindow({
-      width: 500,
-      height: 600,
+      width: 300,
+      height: 250,
       titleBarStyle: 'hidden',
       transparent: true,
       hasShadow: false,
